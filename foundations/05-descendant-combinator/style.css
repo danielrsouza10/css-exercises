@@ -1,0 +1,10 @@
+.text{
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+div p{
+    font-size: 20px;
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
